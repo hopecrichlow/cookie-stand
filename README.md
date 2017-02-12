@@ -18,3 +18,15 @@ Part One:
     - 4pm: 61 cookies
     - 5pm: 23 cookies
     - Total: 657 cookies
+    
+Display the lists on index.html.
+
+Here are the starting numbers that you'll need to build these objects:
+
+Location        | Min / Cust | Max / Cust | Avg Cookie / Sale
+----------------|------------|------------|-------------------
+Pike Place      |      17    |     88     |        5.2
+SeaTac Airport  |      6     |     24     |        1.2
+Southcenter     |      11    |     38     |        1.9
+Bellevue Square |      20    |     48     |        3.3
+Alki            |      3     |     24     |        2.6
